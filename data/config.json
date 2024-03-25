@@ -1,0 +1,11 @@
+{
+    "var1": "string1",
+    "var2": 2,
+    "var3": {
+        "var4": "string4",
+        "var5": {
+            "var6": "string6",
+            "var7": 7
+        }
+    }
+  }
