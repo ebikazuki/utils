@@ -1,3 +1,8 @@
+# 共通
+build/
+dist/
+
+# 追加
 *.png
 _sandbox/
 _archives/
