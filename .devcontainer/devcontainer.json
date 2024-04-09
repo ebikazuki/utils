@@ -2,7 +2,7 @@
     "name": "tfgpu",
     "dockerComposeFile": "docker-compose.yml",
     "service": "workspace",
-    "workspaceFolder": "/tf",
+    "workspaceFolder": "/tf/work",
     "customizations": {
         "vscode": {
             "extensions": [
@@ -13,7 +13,7 @@
                 "workbench.colorCustomizations": {
                     "titleBar.activeBackground": "#19549C",
                     "titleBar.activeForeground": "#ffffff",
-                    "activityBar.background": "#02A7E3",
+                    "activityBar.background": "#223a70",
                     "activityBar.foreground": "#ffffff"
                 }
             }

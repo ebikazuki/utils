@@ -8,7 +8,9 @@ RUN apt-get update && \
 
 # # Install Basic Packages
 RUN pip install ipykernel jupyter
-
+RUN pip install matplotlib
+RUN pip install scikit-learn
+RUN pip install pandas
 
 
 # FROM tensorflow/tensorflow:latest-gpu-jupyter
