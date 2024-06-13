@@ -4,5 +4,7 @@ dist/
 
 # 追加
 *.png
+*.pdf
+*.jpg
 _sandbox/
 _archives/
